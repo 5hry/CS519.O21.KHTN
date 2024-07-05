@@ -15,4 +15,4 @@
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Phạm Nguyễn Hải Anh | 21520586 | 21520586@gm.uit.edu.vn | [PNg-HA](https://github.com/PNg-HA) |
-| 2 | Ngô Thanh Sang | 19521270 | 21522543@gm.uit.edu.vn | [noeffortnomoney](https://github.com/noeffortnomoney) |
+| 2 | Ngô Thanh Sang | 21522543 | 21522543@gm.uit.edu.vn | [5hry](https://github.com/5hry) |
